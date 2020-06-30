@@ -12,7 +12,7 @@ function Ideas() {
         </div>
         <div>
           <img src="https://i.imgur.com/2s8MHz6.png" alt="" />
-          <p>Reserva de citas odontológica</p>
+          <p>Reserva de citas odontológicas</p>
         </div>
         <div>
           <img src="https://i.imgur.com/O50aYps.png" alt="" />

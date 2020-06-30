@@ -7,7 +7,7 @@ function Presentacion (){
         <PresentacionBase>
             <img src="https://i.imgur.com/K01zeD9.png" alt=""/>
             <Contactos/>
-            <p>DESARROLADOR WEB</p>
+            <p>DESARROLLADOR WEB</p>
             <hr/>
             
         </PresentacionBase>
